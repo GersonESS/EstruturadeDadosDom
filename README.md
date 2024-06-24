@@ -8,7 +8,7 @@
 #### Estrutura de Dados Loiane [Aula ](https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi&index=1)
 
 </td>
-<td><a href="https:/github.com//GersonES/" target="_blank"><img src="https://github.com/GersonESS/EstruturadeDados/blob/main/variaveis-e-memoria/Pasted%20image%2020240613201513.png?raw=true" width="300px" height="50px"/></a>
+<td><a href="https:/github.com//GersonESantos/" target="_blank"><img src="https://github.com/GersonESS/EstruturadeDados/blob/main/variaveis-e-memoria/Pasted%20image%2020240613201513.png?raw=true" width="300px" height="50px"/></a>
 </td>
 
 
